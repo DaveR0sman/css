@@ -1,0 +1,29 @@
+@font-face {
+    font-family:"Coubra Demo";
+    src: url(CoubraFont-Demo.otf) format("OpenType");
+}
+body {
+    background-image: url("fondo.gif");
+    
+  }
+  h1{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+    
+  }
+  
+  p{
+    
+    text-align: center;
+    text-align: justify;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+  }
+
+
+  img{
+    display:block;
+    margin:auto;
+    }

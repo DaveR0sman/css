@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+}
+
+.p-large{
+    font-size: 42px;
+}
+.p-green {
+    color: red;
+    background-color: black;
+}
+
+.p-white {
+    color:saddlebrown;
+    background-color: gray;   
+}
