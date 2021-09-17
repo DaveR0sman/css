@@ -1,0 +1,28 @@
+body {
+    background-color: gray;
+}
+
+#caja{
+    width: 880px;
+    height: 450px;
+    margin: 0 auto;
+    background-color: orangered;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-content: center;
+    
+}
+
+.fila1 {
+    width: 200px;
+    height: 200px;
+    background-color: skyblue;
+    margin: 10px;
+    text-align: center;
+    line-height: 200px;
+    font-size: 100px;
+    color: snow;
+    
+
+}

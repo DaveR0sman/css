@@ -1,0 +1,33 @@
+body{
+    background-image:url("giphy.gif");
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    color: yellowgreen;
+    background-color: paleturquoise;
+    border: 5px dashed black;
+    padding: 20px;
+    margin: 50px;
+}
+
+.subtitle{
+    background-color: blue;
+    color: wheat;
+    text-align: center;
+    padding: 20px;
+    margin: 50px;
+}
+
+#caja {
+    background-color: black;
+}
+
+#caja {
+
+}
+
+#caja p{
+    color:blanchedalmond;
+}

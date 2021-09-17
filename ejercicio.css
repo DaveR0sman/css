@@ -26,4 +26,12 @@ body {
   img{
     display:block;
     margin:auto;
+  }
+
+  #caja {
+      background-color: whitesmoke;
+    }
+
+    #caja p{
+      color: white;
     }
