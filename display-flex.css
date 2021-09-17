@@ -1,0 +1,35 @@
+.container {
+    width: 90%;
+    height: 500px;
+    margin:0 auto;
+    border: 2px solid black;
+    display: flex; /*espacio entre elementos*/
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.caja {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja1 {
+    border:2px solid red;
+}
+
+.caja2 {
+    border: 2px solid saddlebrown;
+    align-self: flex-start;
+}
+
+.caja3 {
+    border:2px solid slateblue;
+}
+
+.caja4 {
+    border:2px solid green;
+}
